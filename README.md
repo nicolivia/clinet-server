@@ -1,5 +1,6 @@
 # client-server
 c# socket programming
+async, multiple threads
 
 what i have done:
 1. a batch file for running the program
